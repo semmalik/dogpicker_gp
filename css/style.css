@@ -55,9 +55,6 @@ input, label {
   margin: 15px 0;
 }
 
-label {
-  padding: 0 15px 0 5px;;
-}
 
 p {
   display: block;
@@ -78,6 +75,11 @@ p {
 
 #photo {
   text-align: center;
+}
+
+.radioButton{
+  width: 25px;
+  height: 25px;
 }
 
 /********************
